@@ -1,0 +1,49 @@
+—-create a database for project 2
+CREATE DATABASE IF NOT EXISTS project2;
+
+—-create a table to store the entire homework reviews
+CREATE TABLE IF NOT EXISTS reviews(
+hw_num INT,
+review STRING)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '\t';
+
+—-create a table to store all stop words
+CREATE TABLE IF NOT EXISTS stops(
+stop STRING)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '\n';
+
+—-load all reviews and stop words to the corresponding tables
+LOAD DATA LOCAL INPATH 'path/to/file' INTO TABLE reviews;
+LOAD DATA LOCAL INPATH 'path/to/file' INTO TABLE stops;
+
+—-set a hive variable, do n-grams
+SET n=2;
+SELECT EXPLODE(NGRAMS(SENTENCES(LOWER(review)),${hiveconf:n},100))
+AS bigrams
+FROM reviews
+
+—-create a table to store reviews of hw1 and hw6
+CREATE TABLE one_six(
+hw_num INT,
+review STRING)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '\t';
+
+—-create a table to store reviews of hw1 and hw2
+CREATE TABLE one_two(
+hw_num INT,
+review STRING)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '\t';
+
+—-create a table to store reviews of hw3 to hw6
+CREATE TABLE three_six(
+hw_num INT,
+review STRING)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '\t';
+———————————————————————————————————————————————————
+
+

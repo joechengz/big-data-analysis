@@ -1,0 +1,5 @@
+ADD JAR home/training/training_materials/analyst/project2/reduceStopWords.jar
+
+CREATE TEMPORARY FUNCTION remove as 'RemoveStopWords';
+
+ UPDATE reviews SET review = SELECT remove(review) FROM reviews;

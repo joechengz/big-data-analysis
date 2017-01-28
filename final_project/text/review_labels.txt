@@ -1,0 +1,92 @@
+chengzhen,1,positive,By this homework, I reviewed a lot of things that have talked in class. For example, 
+chengzhen,1,positive,the dimension of big data is part of this homework, and it was a big part of the class in 19th, Jan.
+chengzhen,1,positive,Also, this homework inspires me doing extra work to learn relative knowledge.  As problem 3, I not only
+chengzhen,1,positive,read the required article, also watch the video of Peter Norvig talking about this article to get a fully understand.
+chengzhen,1,positive,Problem 4 in this homework is in the textbook, which is good for getting some new information from textbook.
+chengzhen,2,positive,In this homework, I am excited to deal with real data and get real result. Feeling great using Hadoop. Also, there are 
+chengzhen,2,positive,basic knowledge covered by the lecture professor taught in class in this homework, and I this is great for me to review 
+chengzhen,2,negative,those knowledge by homework. Also, in problem 3, there are some knowledge which is in the textbook, feeling a little upset
+chengzhen,2,negative,because I thought I missed some points of knowledge in class.
+chengzhen,3,negative,This homework has a lot to do with programming. At first, it was tough to get this homework done, because I am not very skilled at
+chengzhen,3,negative, programming. After studying the cases in slices and lectures, and those hadoop programming codes in the Internet, I can finally 
+chengzhen,3,positive, get it done, and it is exciting.
+chengzhen,4,negative,I think this homework is harder than the former 3 homework. Especially there are some problems that I can not find a certain answer for it,
+chengzhen,4,negative, which makes me frustrated. Also, there are more and more programming requirements, 
+chengzhen,4,negative,so it is tough to get this homework done but is it also challenging.
+chengzhen,5,negative,It is hard to deal with all those homework when midterm is approaching, but when reviewing for midterm,
+chengzhen,5,positive, I found that I have a new understanding for most of the knowledges. Also, it makes me understand more when reviewing and doing 
+chengzhen,5,positive, homework at the same time. As usual, this homework has a lot to do with programming, which is also good at helping me understanding contents from textbook.
+chengzhen,6,negative,We had out midterm exam during this homework, so didn’t have too much time to do this homework. Also all three questions in this homework is involved with programming, 
+chengzhen,6,negative,so it took me a day to finish it. But after the midterm, I found that every part of hadoop map reduce programming become clear and organized 
+chengzhen,7,positive,In this homework, we learned something new called pig which is very interesting. It is something different with MapReduce programming, but it is easier to operate for now. Doing this 
+chengzhen,7,positive,homework can help me understand how to use pig and how to deal with data with more details and practices. 
+chengzhen,7,positive,This homework can also help me understand how to use pig.
+chengzhen,8,positive,In this homework, it has a lot of practices about the pig and how to use python in pig. Those two points are very related to the things 
+chengzhen,8,positive,that I have learned in class. This homework makes me feel better because I know how to make use of the knowledge that I learned from class and textbook.
+yang.l,1,positive,This homework is not hard. All of the problems can be solved by reviewing related materials such as textbook or papers. For example, after reviewing Bonferroni’s Principle and its example on the 
+yang.l,1,negative,textbook, I can solve it by myself even though I did know it before. However, since I didn’t know these knowledge before, it took me a long time to finish it.
+yang.l,2,positive,In this homework, problem 1 and problem 2 is not hard to finish. Even I’m not familiar with Unix command, however the bash cheat sheet helps a lot.
+yang.l,2,negative,There are some difficult parts in this homework, for instance, problem2(c) and problem 3(a) and 3(b). I found out that even I know how MapReduce works, 
+yang.l,2,negative,however there are still many details that I don’t know yet.
+yang.l,2,negative,For problem 3, we have talked about skew in the lecture, but I don’t understand it completely.
+yang.l,3,negative,In this homework I practice MapReduce job execution. The difficulties for me is to understand MapReduce Driver and how Map tasks and reduce tasks work. It’s very important
+yang.l,3,negative,to know how they are connected with each other and how parameters are passed among the driver, mapper and reducer. At first I got stuck and had no 
+yang.l,3,negative,idea how to implement it. After reviewing the slices and the text book, I understood the how they work and knew how to implement mapper and reducer with 
+yang.l,3,positive, Java. Although it took me much time, I solved it finally. It feels good.
+yang.l,4,negative,In this homework, I practiced combiner and partitioner. At first, I had know idea how to solve these problems. So, I reviewed the slices and the book.
+yang.l,4,positive, With the help of the textbook and piazza, my partner and I solved the finally.
+yang.l,4,negative,The difficulty for the first problem is that we don’t know when it is necessary to use a combiner and why it takes a longer time for the mapper 
+yang.l,4,positive,when using a combiner. But, after that we reviewed the materials and knew how a combiner works, we were able to solve it.
+yang.l,4,positive,The difficulty for the second problem is that using Java to read a text. After solving this problem, and following the slice, we solved this question easily.
+yang.l,5,positive,Compared with the previous homework, this homework is not hart to finish.
+yang.l,5,negative,Problem 1 and problem 2 are both strait forward. Problem 1(f) is a little difficult to do, 
+yang.l,5,positive,because I didn’t know how to do with pseudo-distributed cluster. With the help of my partner I understood it finally.
+yang.l,5,negative,According to the slices, it didn’t take a long time for me to finish problem 2.
+yang.l,6,negative,This homework is a little difficult to me.
+yang.l,6,negative,For problem 1, I didn’t really understand principles of compress. By referring the textbook and asking my partner for help, 
+yang.l,6,positive,I finally figured it out. I’m happy about that.
+yang.l,6,positive,For problem 2, it’s not hard for me to solve it. I did many reading about the materials and finished it smoothly.
+yang.l,7,negative,I’m looking for the future challenges.
+yang.l,7,positive,This homework is not difficult to complete. All most every statements can be learned from the lecture slices. The following are difficulties 
+yang.l,7,positive,I encountered in this homework.
+yang.l,7,negative,For problem 1, I’m not sure about the answer for question b. I had a little trouble in loading a file glob. By google, I solved this problem.
+yang.l,7,positive,Problem 2 and problem 3 are strait forward. It didn’t take long time to solve them.
+yang.l,8,negative,This homework is the most difficult one so far. It takes me a lot of time to finish. The join and cross operation is hard to understand. After doing join,
+yang.l,8,negative, I have to figure out the attribute belonging. I did it by describing the schemas. Besides that, it’s difficult to understand the meaning of questions 
+yang.l,8,negative,as well as the requirement. By cooperating with my partner, we finally completed this homework. This homework is definitely a hard one!
+jinjinqin,1,positive,This homework is helpful to learn Bonferroni's Principle and the process of MapReduce, 
+jinjinqin,1,positive,since you won't get a deep understand just with lots of reading and no exercise.
+jinjinqin,1,negative,But I met some difficulties with problem 3 due to my English level(it's not my first language), normally it won’t be a problem to understand 
+jinjinqin,1,negative,the class or finish the homework, but I really need a long time to finish reading.
+jinjinqin,1,negative,In order to answer the problem 3, I read the paper for more than 5 times and still couldn’t get an adequate understanding of the meaning. 
+jinjinqin,2,positive,The first and the second problems in this homework helped me to review and enhance my understanding of linux shell commandsand the process of lab1.
+jinjinqin,2,positive,I got better understanding of what I did in lab1. But I met some difficuties in completing problem 2(b) with wc command. From
+jinjinqin,2,negative,the question I think it's to count how many lines there are in the result file, and I know I should use "wc" command, but how?
+jinjinqin,2,negative,I tried many combinations with the path of the file and wc and hadoop fs, all failed, I also googled how to use "wc" but it doesn't work.
+jinjinqin,2,negative,At last, I googled "hadoop wc", finally I understood "-cat" missing. About problem 3, I'm not sure I'm right. 
+jinjinqin,2,negative,In the end, let it be. I tried my best.
+jinjinqin,3,negative,I spent several hours on hw3 and lab2, reading the slides and searching on the Internet.
+jinjinqin,3,positive,But in the process of doing the homework, I learned a lot, it's the best way to learn how to 
+jinjinqin,3,positive,write our map and  reduce functions and how to apply it to our data.I learned how to use perl, python and java to implement mapper and reducer, at first I took 
+jinjinqin,3,negative,a long time to write the streaming command line right for perl and python, then I took a long time to understand I need to use different command lines to run java programs. A Ta and my classmates
+jinjinqin,3,positive,helped me, and I reviewed the knowledge from lab 1. Anyway, it's a great experience.
+jinjinqin,4,negative,Af first, I thought this course was interesting and easy. I'm too naive, hadoop is a complicated system, 
+jinjinqin,4,negative,mapper and reducer, driver are OK, combiner is OK too, then mrunit, logging, counters become hard, then partitioner,
+jinjinqin,4,negative,oh my god, I really spent more than 10 hours on this homework, I stuck on problem 2. Thank to my partner, I
+jinjinqin,4,negative,found my mistake, I split the key in partitioner and forgot it should be just (word, value) because it came out
+jinjinqin,4,negative,from the mapper!  And I don't know how to use mpart and spart in partitionertest.java. Anyway, I worked it out.
+jinjinqin,5,negative,I spent about 5 hours on this homework, it's not an easy work to finish now compared to the initial weeks.
+jinjinqin,5,positive,Hadoop is a huge system to learn, so many things, but I learned a lot from this homework, 2 ways to run locally(toolrunner and configuration)
+jinjinqin,5,positive,and know the differences between running locally, on a pseudo distributed system and on a real cluster, I used to think I run my work parralelly 
+jinjinqin,5,positive,on several machines, maybe on the machines in school, but I know it's actually running on my own machine--a pseudo distributed system/a mini-cluster.It's interesting to know that.
+jinjinqin,6,negative,This course is really getting harder and harder now. It needs lots of reading and reviewing slides and textbook,
+jinjinqin,6,negative,and it's better to remember all of it and do the homework by yourself, otherwise it's hard to grasp all the 
+jinjinqin,6,positive,knowledge. Hadoop is really a smart system considering lots of situations, including the sequencefile and compressed
+jinjinqin,6,positive,and uncompressed files, it has lots of in-built class to help users. Anyway, I learned a lot from this course.
+jinjinqin,7,negative,Before midterm, everything goes well, I learned lots of things about hadoop, but things become difficult now, not because the content we are learning 
+jinjinqin,7,negative,are harder then before, actually pig is much easier then writing mapper and reducer functions by ourselves, it's just there are too many functions and formats
+jinjinqin,7,negative,to learn in pig, and we only scan it in class, it's not enough, we need to spend time to practice it and keep it in our mind. It needs more time to learn it now.
+jinjinqin,8,negative,So far, the homework is getting harder and harder, since you don't know what function to choose, I googled some online, and got the answer,
+jinjinqin,8,negative,like how to use flatten, how to split a string to small substrings, and everytime you wrtie your code, it's important to do local test, 
+jinjinqin,8,negative,use describe or dump to show what you get from one line of code, and continue to adjust your code until it execute what you need.
+jinjinqin,8,positive,I took a long time to finish this homework, and luckily I have a reliable partner.

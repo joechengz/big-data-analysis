@@ -1,0 +1,7 @@
+CREATE TABLE stopwords (
+stop_words STRING)
+FORMAT DELIMITED
+FIEDS DETERMINATED BY '\t';
+
+LOAD DATA INPATH '/project2/english.stop'
+INTO TABLE stopwords;
